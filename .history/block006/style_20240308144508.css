@@ -4,12 +4,12 @@ td {
   padding: 8px 10px;
 }
 
-th[scope="col"] {
+th[scope='col'] {
   background-color: #4d99ae;
   color: #fff;
 }
 
-th[scope="row"] {
+th[scope='row'] {
   background-color: #dd9bd8;
 }
 
@@ -18,12 +18,12 @@ td {
 }
 
 tr:nth-of-type(even) {
-  background-color: #ab23a2;
+  background-color: #eeeeee;
 }
 
 table {
   border-collapse: collapse;
-  border: 2px solid rgb(168, 98, 158);
+  border: 2px solid rgb(140 140 140);
   font-family: sans-serif;
   font-size: 0.8rem;
   letter-spacing: 1px;

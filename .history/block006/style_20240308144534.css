@@ -4,12 +4,12 @@ td {
   padding: 8px 10px;
 }
 
-th[scope="col"] {
+th[scope='col'] {
   background-color: #4d99ae;
   color: #fff;
 }
 
-th[scope="row"] {
+th[scope='row'] {
   background-color: #dd9bd8;
 }
 
