@@ -11,6 +11,6 @@ let x = "hello world";
 let myNumber = 2;
 let thisIsAdog = true;
 let myCar = "Toyota";
-myCar = "BMW";
+myCar='B'
 console.log("mycar");
 console.log("mycar");
