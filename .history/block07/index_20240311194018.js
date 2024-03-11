@@ -16,9 +16,4 @@ console.log("mycar");
 console.log("mycar");
 
 let thisIsNull = null;
-let thisIsUndefined = undefined;
-let thisIsANumber = 1;
-let thisIsAString = "Hello";
-let thisIsABoolean = true;
-
-console.log(Boolean);
+let th
