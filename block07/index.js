@@ -22,3 +22,5 @@ let thisIsAString = "Hello";
 let thisIsABoolean = true;
 
 console.log(Boolean);
+
+// let can be changed const should not //
