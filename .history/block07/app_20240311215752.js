@@ -9,9 +9,9 @@ console.log("");
 console.log("Unlock the Vault");
 alert("Unlock the Vault");
 console.log("Combination #1");
-alert(20 - 10);
+alert(20-10);
 // Used basic math but it is solving it //
 console.log("Combination #2");
 alert(20 * 2);
 console.log("Combination #3");
-alert(78 / 2);
+alert(19.5 / 2);

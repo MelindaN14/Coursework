@@ -14,4 +14,4 @@ alert(20 - 10);
 console.log("Combination #2");
 alert(20 * 2);
 console.log("Combination #3");
-alert(78 / 2);
+alert(19.5 / 2);
