@@ -4,12 +4,10 @@ add comments throughout code
 crate dialog box displaying vault codes and the text with html
 combination 10-40-39
 */
-//Combination Codes in alert pop-up.//
-
-const message =
+//Combination Codes in alert pop-up message because you have been chosen to open an important vault. Here is the secret combinati-up nst message =
   "You have recieved this message because you have been chosen to open an important vault.";
 const vault = "Here is the secret combination:";
-console.log(`please read ${message}${vault}`);
+console.log(`please read${message}${vault}`);
 
 console.log("Unlock the Vault");
 alert("Unlock the Vault");
