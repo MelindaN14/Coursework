@@ -6,9 +6,9 @@ crate dialog box displaying vault codes and the text with html
 console.log("");
 console.log("Unlock the Vault");
 alert("Unlock the Vault");
-console.log("Combination #1");
+console.log("Combination # 1");
 alert("20-10");
 // Used basic math //
-console.log("Combination #2");
+console.log("Combination#2");
 alert();
-console.log("Combination #3");
+console.log("Combination # 3)
