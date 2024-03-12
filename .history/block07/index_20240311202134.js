@@ -1,4 +1,4 @@
-// alert("hello i see you");
+alert("hello i see you");
 console.log("Hello World");
 function helloworld() {
   console.log("say my name!");
@@ -27,14 +27,7 @@ console.log(Boolean);
 
 const firstName = "Melinda";
 const lastName = "Nanjad";
-// console.log("this is my name:"firstName + " " + lastName);
-
+console.log("this is my name:"firstName + " " + lastName);
 // string literal
 
-console.log(`this is my name: ${firstName} ${lastName}`);
-
-console.log(5-2)
-console.log(10-4)
-console.log(2>=2) 
-console.log('a'>'b')
-<!--added .js file at the bottom because it needs to render after the html etc-->
+console.log()`'this is my name: ${firstName} ${lastname}')

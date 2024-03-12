@@ -37,4 +37,3 @@ console.log(5-2)
 console.log(10-4)
 console.log(2>=2) 
 console.log('a'>'b')
-<!--added .js file at the bottom because it needs to render after the html etc-->
