@@ -11,6 +11,6 @@ console.log("Combination #1");
 alert("20-10");
 // Used basic math //
 console.log("Combination #2");
-alert(20 * 2);
+alert(20*2);
 console.log("Combination #3");
-alert(19.5 / 2);
+
