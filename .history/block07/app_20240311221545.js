@@ -9,11 +9,7 @@ console.log("");
 const message =
   "You have recieved this message because you have been chosen to open an important vault. Here is the secret combination:";
 console.log(message);
-const message = "You have recieved this message because you have been chosen to open an important vault."
-const vault = "Here is the secret combination:"
-console.log(`please read${message}${vault}`);
-
-alert(You have recieved this message because you have been chosen to open an important vault. Here is the secret combination:")
+alert()
 console.log("Unlock the Vault");
 alert("Unlock the Vault");
 console.log("Combination #1");
