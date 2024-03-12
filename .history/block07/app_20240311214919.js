@@ -4,7 +4,8 @@ add comments throughout code
 crate dialog box displaying vault codes and the text with html
 combination 10-40-39
 */
-//Combination Codes in alert pop-ups
+//Combination Codes
+const S
 console.log("");
 console.log("Unlock the Vault");
 alert("Unlock the Vault");
