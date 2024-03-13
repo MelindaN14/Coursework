@@ -11,3 +11,7 @@
 .container .box {
   background-color: pink;
 }
+
+/*Mixins */
+
+@mixin border-
