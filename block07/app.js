@@ -7,10 +7,10 @@ combination 10-40-39
 //Combination Codes in alert pop-up.//
 
 const message =
-  "You have received this message because you have been chosen to open an important vault.";
-const vault = "Here is the secret combination:";
+  ("You have received this message because you have been chosen to open an important vault.";
+const vault = "Here is the secret combination:");
 console.log(`please read ${message}${vault}`); 
-<!--can be seen via inspect-->
+//can be seen via inspect//
 
 console.log("Unlock the Vault");
 alert("Unlock the Vault");
