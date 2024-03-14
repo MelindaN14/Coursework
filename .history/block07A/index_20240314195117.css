@@ -1,7 +1,7 @@
 .header-text {
   color: aquamarine;
 }
-/* added a background image as well as other images layered on top  */
+/* background image  */
 body {
   background-image:url('white-bookshelf.jpeg');
    padding: 2rem;

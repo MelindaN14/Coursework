@@ -1,0 +1,16 @@
+.header-text {
+  color: aquamarine;
+}
+body {
+  background-image
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+p {
+  color:rgb(57, 57, 185)
+  text-indent:30px;
+  text-transform: uppercase;
+}
