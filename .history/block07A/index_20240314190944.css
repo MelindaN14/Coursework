@@ -1,0 +1,9 @@
+.header-text {
+  color: aquamarine;
+}
+body{
+  padding: 2rem;
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+}

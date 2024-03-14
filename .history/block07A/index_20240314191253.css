@@ -3,16 +3,9 @@
 }
 body {
   padding: 2rem;
-  background-color: rgb(125, 181, 200);
+  background-color: rgb(110, 172, 192);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-}
-p {
-  color:rgb(57, 57, 185)
-  text-indent:30px;
-  text-transform: uppercase;
-}
-
 }
