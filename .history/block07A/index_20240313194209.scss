@@ -1,0 +1,23 @@
+// variables
+$primary-color: #007bff
+$secondary-color:   6c757d
+
+.container {
+    background-color: $secondary-color;
+    h1 {
+        color: $primary-color
+    }
+
+
+
+
+
+
+
+
+
+
+
+/*Mixins */ @mixin my-border-radius($radius) {
+  background-color: $primary-color;
+}

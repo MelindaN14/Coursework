@@ -1,0 +1,63 @@
+// variables
+$primary-color: #007bff;
+$secondary-color: #6b9cb3
+
+.container {
+    background-color: $secondary-color;
+    h1 {
+        color: $primary-color
+    }
+
+.box {
+background-color:cadetblue;
+}
+
+//variables
+$primary-color: #007bff;
+$secondary-color: #6c757d;
+
+// Mixins
+
+@mixin my-mixin-border-radius($radius) {
+    border-radius: $radius;
+    background-color: $primary-color;
+    height: 20px;
+    width: 20px;
+}
+
+
+.container {
+    background-color: $secondary-color;
+    h1 {
+        color: $primary-color
+    }
+    p{
+        font-size: 16px;
+    }
+    .box {
+        background-color: lighten($primary-color, 20%);
+        p{
+            background-color: lighten($primary-color, 10%);
+        }
+    }
+}
+
+
+.message-box{
+    @include my-mixin-border-radius(10px)
+}
+
+.message-box-two{
+    @extend .box;
+    @include my-mixin-border-radius(200px)
+}
+
+
+
+
+
+
+
+/*Mixins */ @mixin my-border-radius($radius) {
+  background-color: $primary-color;
+}
