@@ -1,0 +1,17 @@
+.header-text {
+  color: aquamarine;
+}
+/* added a background image as well as other images layered on top  */
+body {
+  background-image:url('white-bookshelf.jpeg');
+   padding: 2rem;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+}
+p {
+  color:rgb(57, 57, 185)
+  text-indent:30px;
+  text-transform: uppercase;
+}
