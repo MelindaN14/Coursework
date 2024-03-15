@@ -4,7 +4,7 @@
 /* added a background image as well as other images layered on top  */
 body {
   background-image:url('white-bookshelf.jpeg');
-  padding: 2rem;
+   padding: 2rem;
  display: flex;
  flex-direction: column;
  align-items: center;
@@ -16,14 +16,5 @@ p {
   text-transform: uppercase;
 }
 
-h1{
-  color:rgb(147, 43, 147);
-}
-
-h3{
-  color:darkcyan;
-}
-
-
-
+.$text-color:magenta;
 
