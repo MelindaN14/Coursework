@@ -9,5 +9,7 @@ section {
   border: 1px solid black;
 }
 h1 {
-  height: calc(100% - 15px);
+  color: palevioletred;
+  text-align: center;
+  text-decoration: underline;
 }
