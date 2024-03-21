@@ -1,0 +1,10 @@
+p:hover{
+    background-color: aqua;
+}
+li:nth-child(even){
+    color:aquamarine;
+}
+section{
+    height: 100%;
+    border: 1px
+}

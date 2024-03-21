@@ -1,0 +1,19 @@
+p:hover {
+  background-color: aqua;
+}
+li:nth-child(even) {
+  color: aquamarine;
+}
+section {
+  height: 100%;
+  border: 1px solid black;
+}
+h1 {
+  color: palevioletred;
+  text-align: center;
+  text-decoration: underline;
+}
+.wrap {
+    width:100%;
+    height:
+}
