@@ -39,5 +39,5 @@ p:nth-last-child(odd){
     display: grid;
     grid-template-columns: repeat(3,1fr,2fr);
     /*grid-column-gap:10px;
-    grid-row-gap:30px;*/
+    grid-row-gap:30px;
 }

@@ -32,12 +32,8 @@ p{
     margin-left:200px;
 }
 
-p:nth-last-child(odd){
-    background-color:lightpink;
-}
+p:nth-last-child(odd)
 .wrapper{
     display: grid;
-    grid-template-columns: repeat(3,1fr,2fr);
-    /*grid-column-gap:10px;
-    grid-row-gap:30px;*/
+    grid-template-columns: auto;
 }
