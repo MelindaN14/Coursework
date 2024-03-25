@@ -3,16 +3,12 @@ li{
     list-style-type: none;
     padding: 10px;
 }
-.home{
-    order:1;
-}
-header{
-    background-color: burlywood;
-}
+.home
+
 
 ul {
     display: flex;
-} /*flex direction: row -reverse*/
+}
 
 main{
     display: flex;
@@ -23,11 +19,4 @@ main{
 
 p{
     width: 200px;
-}
-.my-image{
-    flex-grow: 4;
-}
-
-.contact{
-    margin-left:200px;
 }

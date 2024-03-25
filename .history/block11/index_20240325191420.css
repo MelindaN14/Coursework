@@ -1,0 +1,21 @@
+/* examples of css flex wrap etc */
+li{
+    lis
+}
+
+
+
+ul {
+    display: flex;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex;
+
+}
+
+p{
+    width: 200px;
+}

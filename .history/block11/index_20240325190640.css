@@ -1,0 +1,18 @@
+/* examples of css flex wrap etc */
+
+
+
+
+ul {
+    display: flex;
+}
+
+main{
+    display:
+    flex-wrap: wrap;
+    align-items: fl
+}
+
+p{
+    width: auto;
+}
