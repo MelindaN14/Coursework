@@ -14,3 +14,14 @@ if (2 + 2 === 4) {
 } else {
   console.log("math sucks");
 }
+const outOfBread = true;
+const outOfEggs = false;
+
+console.log("Time to go shopping");
+if (outOfBread) {
+  console.log("Buy Bread!");
+}
+if (outOfEggs) {
+  console.log("Buy Eggs!");
+}
+console.log("Done Shopping!");
