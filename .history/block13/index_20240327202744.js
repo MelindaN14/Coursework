@@ -36,7 +36,3 @@ console.log(!(3 < 5))
 
 // const thisIsArandomArrowFunction =() =>
 
-// function sayHello (name){
-// return 'Hello, $('Cody')
-    
-// }

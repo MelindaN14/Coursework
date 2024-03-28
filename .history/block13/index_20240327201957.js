@@ -31,12 +31,4 @@ console.log(!true)
 console.log(!(5 === "5"))
 console.log(!(3 < 5))
  
-// console.log((true && false)) || false && true)
-// function checkAccount("firstParam", firstParam)
-
-// const thisIsArandomArrowFunction =() =>
-
-// function sayHello (name){
-// return 'Hello, $('Cody')
-    
-// }
+// console.log((true && flase))

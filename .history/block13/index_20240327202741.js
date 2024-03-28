@@ -35,8 +35,3 @@ console.log(!(3 < 5))
 // function checkAccount("firstParam", firstParam)
 
 // const thisIsArandomArrowFunction =() =>
-
-// function sayHello (name){
-// return 'Hello, $('Cody')
-    
-// }

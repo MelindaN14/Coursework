@@ -1,5 +1,3 @@
-function convertToMeters(yards) {
-    return yards * 0.9144;
-}
+fucntion convertToMeters
 let inputYards = prompt(14);
 console.log("Input Yards: ",inputYards)
