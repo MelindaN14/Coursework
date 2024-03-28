@@ -80,20 +80,13 @@ body {
 .smallcircle {
   position:absolute;
   top:15%;
-  left: 20%;
-  transform:translate(-80%, -80%);
+  left: 50%;
+  transform:translate(-75%, -75%);
   width: 50px;
   height: 25px;
-  /* to make a circle border-radius*/
-  border-radius: 70%;
+  /* to make a circle */
+  border-radius: 50%;
   background-color: coral;
   margin:10px;
-}
-
-/* Triangle */
-.triangle {
-  position: ;
-  top:5%;
-  left:5%;
-  transform: ;
+  display:over;
 }

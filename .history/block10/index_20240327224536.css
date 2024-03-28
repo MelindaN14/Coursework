@@ -79,21 +79,13 @@ body {
 /* circles */
 .smallcircle {
   position:absolute;
-  top:15%;
-  left: 20%;
-  transform:translate(-80%, -80%);
+  top:50%;
+  left: 50%;
+  transform:translate(-50%, -50%);
   width: 50px;
   height: 25px;
-  /* to make a circle border-radius*/
-  border-radius: 70%;
+  
   background-color: coral;
   margin:10px;
-}
-
-/* Triangle */
-.triangle {
-  position: ;
-  top:5%;
-  left:5%;
-  transform: ;
+  display:over;
 }

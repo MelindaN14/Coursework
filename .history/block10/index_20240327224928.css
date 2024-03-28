@@ -88,12 +88,5 @@ body {
   border-radius: 70%;
   background-color: coral;
   margin:10px;
-}
-
-/* Triangle */
-.triangle {
-  position: ;
-  top:5%;
-  left:5%;
-  transform: ;
+  display;
 }
