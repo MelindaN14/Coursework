@@ -4,5 +4,4 @@
 // const myArray = [];
 // const count = myArray.push;
 // console.log(myArray);
-const animals = ["ant", "bison", "camel", "duck", "elephant"];
-console.log(animals.shift);
+const animals = ['ant', 'bison','camel', 'duck' , 'elephant];
