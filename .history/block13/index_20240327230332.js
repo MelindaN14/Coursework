@@ -40,7 +40,7 @@ console.log(!(3 < 5))
 // return 'Hello, $('Cody')
     
 // }
-function createMessage (fahrenheit, celsius){
+function createMessage (fahrenheit, celsius){}
   if (fahrenheit < 32) {
         feels = "very cold";
     } else if (fahrenheit < 64) {
