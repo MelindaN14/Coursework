@@ -4,4 +4,14 @@ console.log("hello");
 //loop through an array of 50 numbers. If a number is a multiple of 5 and 3, print fizz buzz
 // while loop until 50
 
-https://fullstackacademy.slack.com/archives/C06LCPG4EEM/p1711672414254759
+console.log(9 % 2)
+let i = 0
+
+while (i < 50)
+{
+    if (i % 3 === 0)
+    {
+        console.log(i, 'fizz')
+        else if()
+    }
+}
