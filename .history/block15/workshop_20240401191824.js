@@ -56,21 +56,11 @@ for (const individualMeal in dinner)
 }
 console.log(totalCost);
 
-// function calculateCost (meal)
-// {
-//   let total = 0;
-//   for (const food in meal)
-//   {
-//     total += meal[food];
-//   }
-// //   return total;
-//assign new keys 
-
-//delete key
-// delete.soup;
-
-// FIZZBUZZ
-//loop through an array of 50 numbers. If a number is a multiple of 5 and 3, print fizz buzz
-// while loop until 50
-
-https://fullstackacademy.slack.com/archives/C06LCPG4EEM/p1711672414254759
+function calculateCost (meal)
+{ return total;
+  let total = 0;
+  for (const food in meal)
+  {
+    total += meal[food];
+  }
+//  
