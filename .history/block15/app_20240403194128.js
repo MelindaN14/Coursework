@@ -13,6 +13,4 @@
 
 const newArray = [2, 4, 6, 8]
 
-const allEven = newArray.every(num => num % 2 === 0)
-
-console.log(allEven);
+const allEven = new
