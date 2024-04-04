@@ -30,16 +30,4 @@ const jobArray = [
   { type: "fashion", founded: 1920 },
 ];
 console.log(jobArray);
-const totalFunded = jobArray.reduce((accumulator, currentValue) => accumulator + currentValue.founded)
-
-const studentArray = [
-    {id:'001', name:'Alice'},
-    {id:'002', name:'Bob'},
-    {id:'003', name:'Charlie'},
-]
-const studentObjects = studentArray.reduce((accumulator, current) =>
-{
-    accumulator[current.id] = current;
-    return accumulator
-}, {})
-console.log(studentObjects);
+const totalFunded = jobArray.reduce((accumulator,currentValue)=> acc)

@@ -34,12 +34,6 @@ const totalFunded = jobArray.reduce((accumulator, currentValue) => accumulator +
 
 const studentArray = [
     {id:'001', name:'Alice'},
-    {id:'002', name:'Bob'},
-    {id:'003', name:'Charlie'},
+    {id:'001', name:'Bob'},
+    {id:'001', name:'Alice'},
 ]
-const studentObjects = studentArray.reduce((accumulator, current) =>
-{
-    accumulator[current.id] = current;
-    return accumulator
-}, {})
-console.log(studentObjects);

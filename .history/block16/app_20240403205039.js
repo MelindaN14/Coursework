@@ -41,5 +41,5 @@ const studentObjects = studentArray.reduce((accumulator, current) =>
 {
     accumulator[current.id] = current;
     return accumulator
-}, {})
-console.log(studentObjects);
+}) { })
+console.log((studentObjects))

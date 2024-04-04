@@ -37,9 +37,5 @@ const studentArray = [
     {id:'002', name:'Bob'},
     {id:'003', name:'Charlie'},
 ]
-const studentObjects = studentArray.reduce((accumulator, current) =>
 {
-    accumulator[current.id] = current;
-    return accumulator
-}, {})
-console.log(studentObjects);
+}

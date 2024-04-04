@@ -25,21 +25,6 @@ console.log(animals.slice(2));
 
 // reduce
 const jobArray = [
-  { type: "marketing", founded: 1990 },
-  { type: "construction", founded: 1600 },
-  { type: "fashion", founded: 1920 },
-];
-console.log(jobArray);
-const totalFunded = jobArray.reduce((accumulator, currentValue) => accumulator + currentValue.founded)
-
-const studentArray = [
-    {id:'001', name:'Alice'},
-    {id:'002', name:'Bob'},
-    {id:'003', name:'Charlie'},
+    { type: 'marketing', founded: 1990 }
+    { type: 'construction', founded: 1600 } { type: "fashion", founded: 1920 }
 ]
-const studentObjects = studentArray.reduce((accumulator, current) =>
-{
-    accumulator[current.id] = current;
-    return accumulator
-}, {})
-console.log(studentObjects);
