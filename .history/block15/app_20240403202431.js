@@ -11,16 +11,13 @@
 
 // every
 
-const newArray = [2, 4, 6, 8];
+// const newArray = [2, 4, 6, 8]
 
-const allEven = newArray.every((num) => num % 2 === 0);
+// const allEven = newArray.every(num => num % 2 === 0)
 
-console.log(allEven);
+// console.log(allEven);
 
 // splice
 
-const animals = ["ant", "bison", "camel", "duck", "elephant"];
-
-console.log(animals.slice(2));
-
-// reduce
+const animals = ['ant','bison','camel','duck',]
+}
