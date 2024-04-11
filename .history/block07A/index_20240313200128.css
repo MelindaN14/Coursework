@@ -1,0 +1,31 @@
+.container {
+  background-color: #6c757d;
+}
+.container h1 {
+  color: #007bff;
+}
+.container p {
+  font-size: 16px;
+}
+.container .box, .container .message-box-two {
+  background-color: #66b0ff;
+}
+.container .box p, .container .message-box-two p {
+  background-color: #3395ff;
+}
+
+.message-box {
+  border-radius: 10px;
+  background-color: #007bff;
+  height: 20px;
+  width: 20px;
+}
+
+.message-box-two {
+  border-radius: 200px;
+  background-color: #007bff;
+  height: 20px;
+  width: 20px;
+}
+
+/*Mixins *//*# sourceMappingURL=index_20240313200128.css.map */
