@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 // import * as React from 'react';
-// import Box from '@mui/material/Box';
+import Box from '@mui/material/Box';
 
 export default function BoxBasic() {
   return (
@@ -40,4 +40,4 @@ function App() {
   )
 }
 
-// export default App
+export default App
