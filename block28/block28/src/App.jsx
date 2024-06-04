@@ -1,7 +1,7 @@
 // import { useState } from "react";
 import "./App.css";
 import * as react from "react";
-
+import { useNavigate } from 'react-router-dom'
 
 <>
   <div id="container">
@@ -11,4 +11,11 @@ import * as react from "react";
   </div>
 </>;
 
-export default App;
+export default function App ()
+{
+  const navigate = useNavigate()
+  
+  return (
+    <div className = "App"></div>
+  )
+};
